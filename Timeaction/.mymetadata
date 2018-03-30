@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Timeaction"
+  id="myeclipse.1522325625834"
+  context-root="/Timeaction"
+  j2ee-spec="5.0"
+  archive="Timeaction.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
